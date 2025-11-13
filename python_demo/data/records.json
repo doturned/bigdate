@@ -1,0 +1,32 @@
+[
+  {
+    "date": "2025-11-11",
+    "category": "food",
+    "description": "午餐",
+    "amount": -25.0
+  },
+  {
+    "date": "2025-11-11",
+    "category": "food",
+    "description": "午餐",
+    "amount": -90.0
+  },
+  {
+    "date": "2025-9-15",
+    "category": "time",
+    "description": "时间",
+    "amount": 250.0
+  },
+  {
+    "date": "2025-11-11",
+    "category": "port",
+    "description": "列别话",
+    "amount": -895.0
+  },
+  {
+    "date": "2025-11-12",
+    "category": "",
+    "description": "",
+    "amount": 20.0
+  }
+]
